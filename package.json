@@ -1,0 +1,15 @@
+{
+  "name": "yrm",
+  "version": "1.0.1",
+  "description": "Yarn registry manager can help you easy and fast switch between different npm registries, now include: cnpm, taobao, nj(nodejitsu), rednpm, edunpm",
+  "repository": {
+    "url": "git@github.com:Retroxs/yrm.git",
+    "type": "git"
+  },
+  "main": "main.js",
+  "author": "Retroxs <retroxsx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
